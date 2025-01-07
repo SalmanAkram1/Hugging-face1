@@ -1,12 +1,11 @@
-
 ---
-title: Hgd
-emoji: 🚀
-colorFrom: green
-colorTo: green
+license: cc
+title: Text Summarise
 sdk: gradio
-sdk_version: 5.10.0
+emoji: 🌖
+colorFrom: purple
+colorTo: pink
 app_file: app.py
 pinned: false
-license: cc
 ---
+[Try Demo Text Summarise](https://huggingface.co/spaces/salmanakram1/Hgd)
